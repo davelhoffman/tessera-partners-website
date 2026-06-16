@@ -37,14 +37,13 @@
     "sectionLabel": "Who I Work With",
     "headline": "When software companies outgrow their operating model.",
     "bodyParagraphs": [
-      "Growth creates complexity. Acquisitions create fragmentation. Teams scale faster than operating models. AI creates urgency without clarity.",
-      "The companies I work with are often successful by traditional measures. Revenue is growing. Customers are engaged. The business has momentum. But leadership can see the warning signs: decisions are slowing, teams are misaligned, and growth is becoming harder to sustain.",
+      "The companies I work with are often successful by traditional measures. But leadership can see the warning signs: decisions are slowing, teams are misaligned, and growth is becoming harder to sustain.",
       "Maybe one of these sounds familiar."
     ],
     "cards": [
       {
         "title": "Product isn’t driving business outcomes",
-        "body": "Engineering is shipping but the business isn’t seeing a corresponding lift in revenue, retention, or growth. The roadmap has become a reactionary list driven by the loudest voices in the room."
+        "body": "Engineering is shipping but revenue, retention, and growth aren’t moving. The roadmap has become a reactionary list driven by the loudest voices in the room."
       },
       {
         "title": "Growth has outpaced the operating model",
@@ -52,16 +51,15 @@
       },
       {
         "title": "AI feels important but the path isn’t clear",
-        "body": "Leadership knows AI matters but struggles to separate signal from noise. The opportunity is real. The question is where it creates measurable value for customers, teams, and the business."
+        "body": "The opportunity is real. The question is where AI creates measurable value for customers, teams, and the business."
       },
       {
         "title": "Leadership needs experienced product coverage",
-        "body": "Whether during growth, transformation, or a search for a permanent hire, the business needs an operator who can step in and create momentum quickly."
+        "body": "Whether during growth, transformation, or a search for a permanent hire, the business needs an operator who can create momentum quickly."
       }
     ],
     "closingParagraphs": [
-      "These are the situations I was built for.",
-      "My deepest experience is in SaaS, embedded payments, and fintech. That’s where I do my best work."
+      "These are the situations I was built for. My deepest experience is in SaaS, embedded payments, and fintech. That’s where I do my best work."
     ]
   },
   "services": {
@@ -70,23 +68,23 @@
     "cards": [
       {
         "title": "Fractional or Interim CPO",
-        "body": "I function as your CPO. Roadmap ownership, team structure, delivery accountability, board communication. Not a consultant who hands you a deck. An operator who runs the function while you find the right permanent hire, or for as long as you need senior coverage."
+        "body": "I function as your CPO. Roadmap ownership, team structure, delivery accountability, and board communication. An operator who runs the function while you find the right permanent hire, or for as long as you need senior coverage."
       },
       {
         "title": "Product Management Operating System (PMOS)",
-        "body": "The structured framework I built and ran at scale. Empowered teams, continuous discovery, outcome-based measurement, and the operational cadences that keep everything moving. It installs in weeks and stays after I leave."
+        "body": "The structured framework I built and ran at scale. Empowered teams, continuous discovery, and outcome-based measurement. It installs in weeks and stays after I leave."
       },
       {
         "title": "AI Product Strategy",
-        "body": "Not a vision document. A practical plan for where AI creates real leverage in your product and development workflows, with measurable outcomes attached. I’ve led AI transformation at scale. I know the difference between meaningful investment and noise."
+        "body": "A practical plan for where AI creates real leverage in your product and development workflows. I know the difference between meaningful investment and noise."
       },
       {
         "title": "Platform Consolidation and Modernization",
-        "body": "For companies carrying platform debt from acquisitions or organic complexity. I’ve done this at scale across multiple organizations. I know where the bodies are buried and how to sequence the work without breaking what’s live."
+        "body": "For companies carrying platform debt from acquisitions or organic complexity. I’ve done this at scale and know how to sequence the work without breaking what’s live."
       },
       {
         "title": "Embedded Payments Strategy",
-        "body": "Payments is a growth lever most SaaS companies underutilize. I’ve built and scaled embedded payments platforms across billions in processing volume. I can help you identify where payments creates margin, stickiness, and competitive differentiation in your product."
+        "body": "Payments is a growth lever most SaaS companies underutilize. I can help you identify where payments creates margin, stickiness, and competitive differentiation."
       }
     ]
   },
@@ -96,8 +94,7 @@
     "pullQuote": "PMOS integrates both.",
     "bodyParagraphs": [
       "Most product organizations don’t fail because of strategy. They fail because there is no operating system connecting strategy to execution. Empowered teams without operational discipline drift. Operational discipline without empowered teams produces output without outcomes.",
-      "It is the framework I built and refined leading product organizations through growth, acquisition, and transformation. It connects three layers that most frameworks address in isolation: leadership strategy and governance, empowered cross-functional teams running continuous discovery and dual-track delivery, and the operational cadences that keep everything moving without reverting to command and control.",
-      "Teams own problems and outcomes, not feature backlogs. Discovery runs continuously alongside delivery. Every initiative is anchored to a measurable business outcome before a line of code is written. And the operational layer gives leadership the visibility to course-correct early without micromanaging how the work gets done.",
+      "It connects three layers that most frameworks address in isolation: leadership strategy and governance, empowered cross-functional teams running continuous discovery and delivery, and the operational cadences that keep everything moving without reverting to command and control.",
       "The result is a product organization that is predictable, accountable, and aligned with business outcomes. It installs in weeks and stays after the engagement ends."
     ]
   },
@@ -107,18 +104,18 @@
     "steps": [
       {
         "title": "01 / Assess",
-        "body": "Evaluate the product organization, platform architecture, and operating model. Identify what’s slowing growth, where complexity exists, and what’s already working."
+        "body": "Evaluate the product organization and operating model. Identify what’s slowing growth and what’s already working."
       },
       {
         "title": "02 / Align",
-        "body": "Build executive alignment around priorities, owners, and measurable outcomes. No 40-page strategy decks. Clear decisions and clear accountability."
+        "body": "Build executive alignment around priorities, owners, and measurable outcomes. Clear decisions and clear accountability."
       },
       {
         "title": "03 / Execute",
-        "body": "Operate alongside the team to drive execution, install durable PMOS rhythms, and deliver results. I stay until it’s working."
+        "body": "Operate alongside the team to drive execution and deliver results. I stay until it’s working."
       }
     ],
-    "closing": "Engagements typically range from 90 days to 12 months depending on scope. Available through fractional leadership, interim executive roles, strategic projects, and advisory relationships.",
+    "closing": "Engagements typically range from 90 days to 12 months. Available through fractional leadership, interim executive roles, strategic projects, and advisory relationships.",
     "cta": {
       "text": "Schedule a Conversation",
       "href": "mailto:dave@tesserapartners.co"
@@ -128,8 +125,8 @@
     "sectionLabel": "About",
     "headline": "Operator first. Advisor second.",
     "bodyParagraphs": [
-      "I founded Tessera Partners because the most valuable thing I can offer a software company isn’t a framework or a presentation. It’s judgment built from doing the work at scale, across multiple organizations, through real inflection points.",
-      "Throughout my career I’ve built product organizations from scratch, introduced product management discipline into engineering-led companies, led post-acquisition platform consolidation, and driven AI transformation across the full software development lifecycle. Most recently, as Chief Product Officer of a public company, I led global Product and Engineering organizations approaching 1,000 people across five continents.",
+      "I founded Tessera Partners because the most valuable thing I can offer a software company isn’t a framework or a presentation. It’s judgment built from doing the work at scale through real inflection points.",
+      "Most recently, as Chief Product Officer of a public company, I led global Product and Engineering organizations approaching 1,000 people across five continents. Throughout my career I’ve built product organizations from scratch, introduced product management discipline into engineering-led companies, and driven AI transformation across the full software development lifecycle.",
       "Tessera Partners exists to bring that experience directly to companies that need it now, without the overhead of a full-time executive hire.",
       "For a complete professional background, connect with me on LinkedIn."
     ],
