@@ -16,5 +16,7 @@ fs.mkdirSync(outDir, { recursive: true });
 fs.writeFileSync(path.join(outDir, 'index.html'), html, 'utf-8');
 fs.copyFileSync(path.join(srcDir, 'styles.css'), path.join(outDir, 'styles.css'));
 fs.copyFileSync(path.join(srcDir, 'main.js'), path.join(outDir, 'main.js'));
+fs.copyFileSync(path.join(srcDir, 'tessera-logo.svg'), path.join(outDir, 'tessera-logo.svg'));
+fs.copyFileSync(path.join(srcDir, 'tessera-icon.svg'), path.join(outDir, 'tessera-icon.svg'));
 
 console.log('✓ Build complete → public/');

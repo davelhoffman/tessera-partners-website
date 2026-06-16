@@ -61,6 +61,7 @@ function renderTemplate(c) {
 '  <title>Tessera Partners — Fractional CPO &amp; Product Leadership</title>\n' +
 '  <meta name="description" content="Tessera Partners provides fractional CPO and senior product leadership for software companies navigating growth, transformation, and AI strategy." />\n' +
 '  <meta name="robots" content="index, follow" />\n' +
+'  <link rel="icon" type="image/svg+xml" href="tessera-icon.svg" />\n' +
 '  <link rel="preconnect" href="https://fonts.googleapis.com" />\n' +
 '  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />\n' +
 '  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;450;500;600;700&display=swap" rel="stylesheet" />\n' +
@@ -71,7 +72,7 @@ function renderTemplate(c) {
 '<!-- ── Navigation ────────────────────────────────────────────────────── -->\n' +
 '<nav id="nav" role="navigation" aria-label="Main">\n' +
 '  <div class="nav-inner">\n' +
-'    <a href="#" class="nav-brand">' + e(nav.brand) + '</a>\n' +
+'    <a href="#" class="nav-brand" aria-label="' + e(nav.brand) + '"><img src="tessera-logo.svg" alt="' + e(nav.brand) + '" class="nav-logo" /></a>\n' +
 '    <ul class="nav-links">\n' +
 '      ' + navLinksHtml(nav.links) + '\n' +
 '    </ul>\n' +

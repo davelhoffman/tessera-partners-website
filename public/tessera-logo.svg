@@ -1,0 +1,13 @@
+<svg width="248" height="40" viewBox="0 0 248 40" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Tessera Partners</title>
+
+  <!-- 2x2 tessera tile grid -->
+  <rect x="0"  y="4"  width="15" height="15" rx="2" fill="#b8975a"/>
+  <rect x="17" y="4"  width="15" height="15" rx="2" fill="#d4b483"/>
+  <rect x="0"  y="21" width="15" height="15" rx="2" fill="#d4b483"/>
+  <rect x="17" y="21" width="15" height="15" rx="2" fill="#b8975a"/>
+
+  <!-- Wordmark -->
+  <text x="48" y="20" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#f5f0e8" dominant-baseline="middle">Tessera</text>
+  <text x="48" y="33" font-family="Georgia, 'Times New Roman', serif" font-size="10.5" letter-spacing="2.5" fill="#b8975a" dominant-baseline="middle">PARTNERS</text>
+</svg>

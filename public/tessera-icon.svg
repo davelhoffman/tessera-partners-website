@@ -1,0 +1,20 @@
+<svg width="680" height="680" viewBox="0 0 680 680" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Tessera Partners icon</title>
+  <desc>Square icon version of the Tessera Partners logo</desc>
+
+  <style>
+    .tp-label { font-family: 'Georgia', serif; fill: #1a2744; font-size: 38px; font-weight: 400; letter-spacing: 1px; }
+    .tp-sub { font-family: 'Georgia', serif; fill: #1a2744; font-size: 22px; font-weight: 400; letter-spacing: 3px; }
+  </style>
+
+  <rect width="680" height="680" fill="#f5f0e8" rx="60"/>
+
+  <!-- Tessera 2x2 tile grid -->
+  <rect x="210" y="120" width="118" height="118" rx="8" fill="#b8955a"/>
+  <rect x="352" y="120" width="118" height="118" rx="8" fill="#d4b483"/>
+  <rect x="210" y="252" width="118" height="118" rx="8" fill="#d4b483"/>
+  <rect x="352" y="252" width="118" height="118" rx="8" fill="#b8955a"/>
+
+  <text x="340" y="450" text-anchor="middle" class="tp-label">Tessera</text>
+  <text x="340" y="500" text-anchor="middle" class="tp-sub">PARTNERS</text>
+</svg>
