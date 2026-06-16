@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "tinacms build && node build.js",
+    "build": "node build.js",
     "dev": "TINA_PUBLIC_IS_LOCAL=true tinacms dev -c \"node build.js\"",
     "build:content": "node build.js"
   },
