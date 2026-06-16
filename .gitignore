@@ -1,0 +1,6 @@
+node_modules/
+.tina/__generated__/
+.env
+.env.local
+.DS_Store
+.claude/

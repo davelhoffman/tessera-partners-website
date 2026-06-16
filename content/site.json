@@ -1,0 +1,180 @@
+{
+  "nav": {
+    "brand": "Tessera Partners",
+    "links": [
+      { "text": "Who I Work With", "href": "#who-i-work-with" },
+      { "text": "Services", "href": "#services" },
+      { "text": "PMOS", "href": "#pmos" },
+      { "text": "Approach", "href": "#approach" },
+      { "text": "About", "href": "#about" }
+    ],
+    "cta": {
+      "text": "Schedule a Conversation",
+      "href": "mailto:dave@tesserapartner.co"
+    }
+  },
+  "hero": {
+    "headline": "I help software companies navigate inflection points.",
+    "subheadParagraphs": [
+      "I help software companies navigate the moments when what got them here won’t get them where they need to go next.",
+      "Sometimes the challenge is scaling the organization. Sometimes it’s cutting through complexity to find the strategy the team should have been executing all along. Sometimes the product is strong but growth has stalled.",
+      "When the stakes are high and the path forward isn’t clear, that’s where I’m most useful."
+    ],
+    "cta": {
+      "text": "Schedule a Conversation",
+      "href": "mailto:dave@tesserapartner.co"
+    }
+  },
+  "credibilityStrip": {
+    "items": [
+      "Former Chief Product Officer of a public company",
+      "Led global Product and Engineering organizations approaching 1,000 people",
+      "Built and scaled embedded payments platforms processing billions annually",
+      "Led AI and platform transformations across multiple acquisitions"
+    ]
+  },
+  "whoIWorkWith": {
+    "sectionLabel": "Who I Work With",
+    "headline": "When software companies outgrow their operating model.",
+    "bodyParagraphs": [
+      "Growth creates complexity. Acquisitions create fragmentation. Teams scale faster than operating models. AI creates urgency without clarity.",
+      "The companies I work with are often successful by traditional measures. Revenue is growing. Customers are engaged. The business has momentum. But leadership can see the warning signs: decisions are slowing, teams are misaligned, and growth is becoming harder to sustain.",
+      "Maybe one of these sounds familiar."
+    ],
+    "cards": [
+      {
+        "title": "Product isn’t driving business outcomes",
+        "body": "Engineering is shipping but the business isn’t seeing a corresponding lift in revenue, retention, or growth. The roadmap has become a reactionary list driven by the loudest voices in the room."
+      },
+      {
+        "title": "Growth has outpaced the operating model",
+        "body": "Processes become inconsistent, decision making slows, and leadership spends more time managing friction than driving innovation."
+      },
+      {
+        "title": "AI feels important but the path isn’t clear",
+        "body": "Leadership knows AI matters but struggles to separate signal from noise. The opportunity is real. The question is where it creates measurable value for customers, teams, and the business."
+      },
+      {
+        "title": "Leadership needs experienced product coverage",
+        "body": "Whether during growth, transformation, or a search for a permanent hire, the business needs an operator who can step in and create momentum quickly."
+      }
+    ],
+    "closingParagraphs": [
+      "These are the situations I was built for.",
+      "My deepest experience is in SaaS, embedded payments, and fintech. That’s where I do my best work."
+    ]
+  },
+  "services": {
+    "sectionLabel": "Services",
+    "headline": "Senior product leadership for the moments that matter.",
+    "cards": [
+      {
+        "title": "Fractional or Interim CPO",
+        "body": "I function as your CPO. Roadmap ownership, team structure, delivery accountability, board communication. Not a consultant who hands you a deck. An operator who runs the function while you find the right permanent hire, or for as long as you need senior coverage."
+      },
+      {
+        "title": "Product Management Operating System (PMOS)",
+        "body": "The structured framework I built and ran at scale. Empowered teams, continuous discovery, outcome-based measurement, and the operational cadences that keep everything moving. It installs in weeks and stays after I leave."
+      },
+      {
+        "title": "AI Product Strategy",
+        "body": "Not a vision document. A practical plan for where AI creates real leverage in your product and development workflows, with measurable outcomes attached. I’ve led AI transformation at scale. I know the difference between meaningful investment and noise."
+      },
+      {
+        "title": "Platform Consolidation and Modernization",
+        "body": "For companies carrying platform debt from acquisitions or organic complexity. I’ve done this at scale across multiple organizations. I know where the bodies are buried and how to sequence the work without breaking what’s live."
+      },
+      {
+        "title": "Embedded Payments Strategy",
+        "body": "Payments is a growth lever most SaaS companies underutilize. I’ve built and scaled embedded payments platforms across billions in processing volume. I can help you identify where payments creates margin, stickiness, and competitive differentiation in your product."
+      }
+    ]
+  },
+  "pmos": {
+    "sectionLabel": "PMOS",
+    "headline": "A Product Management Operating System built for scale.",
+    "pullQuote": "PMOS integrates both.",
+    "bodyParagraphs": [
+      "Most product organizations don’t fail because of strategy. They fail because there is no operating system connecting strategy to execution. Empowered teams without operational discipline drift. Operational discipline without empowered teams produces output without outcomes.",
+      "It is the framework I built and refined leading product organizations through growth, acquisition, and transformation. It connects three layers that most frameworks address in isolation: leadership strategy and governance, empowered cross-functional teams running continuous discovery and dual-track delivery, and the operational cadences that keep everything moving without reverting to command and control.",
+      "Teams own problems and outcomes, not feature backlogs. Discovery runs continuously alongside delivery. Every initiative is anchored to a measurable business outcome before a line of code is written. And the operational layer gives leadership the visibility to course-correct early without micromanaging how the work gets done.",
+      "The result is a product organization that is predictable, accountable, and aligned with business outcomes. It installs in weeks and stays after the engagement ends."
+    ]
+  },
+  "approach": {
+    "sectionLabel": "Approach",
+    "headline": "No pitch. No templates. Just an honest conversation about where you’re stuck and whether I’m the right person to help.",
+    "steps": [
+      {
+        "title": "01 / Assess",
+        "body": "Evaluate the product organization, platform architecture, and operating model. Identify what’s slowing growth, where complexity exists, and what’s already working."
+      },
+      {
+        "title": "02 / Align",
+        "body": "Build executive alignment around priorities, owners, and measurable outcomes. No 40-page strategy decks. Clear decisions and clear accountability."
+      },
+      {
+        "title": "03 / Execute",
+        "body": "Operate alongside the team to drive execution, install durable PMOS rhythms, and deliver results. I stay until it’s working."
+      }
+    ],
+    "closing": "Engagements typically range from 90 days to 12 months depending on scope. Available through fractional leadership, interim executive roles, strategic projects, and advisory relationships.",
+    "cta": {
+      "text": "Schedule a Conversation",
+      "href": "mailto:dave@tesserapartner.co"
+    }
+  },
+  "about": {
+    "sectionLabel": "About",
+    "headline": "Operator first. Advisor second.",
+    "bodyParagraphs": [
+      "I founded Tessera Partners because the most valuable thing I can offer a software company isn’t a framework or a presentation. It’s judgment built from doing the work at scale, across multiple organizations, through real inflection points.",
+      "Throughout my career I’ve built product organizations from scratch, introduced product management discipline into engineering-led companies, led post-acquisition platform consolidation, and driven AI transformation across the full software development lifecycle. Most recently, as Chief Product Officer of a public company, I led global Product and Engineering organizations approaching 1,000 people across five continents.",
+      "Tessera Partners exists to bring that experience directly to companies that need it now, without the overhead of a full-time executive hire.",
+      "For a complete professional background, connect with me on LinkedIn."
+    ],
+    "ctas": [
+      {
+        "text": "View LinkedIn",
+        "href": "https://linkedin.com/in/davelhoffman"
+      },
+      {
+        "text": "Schedule a Conversation",
+        "href": "mailto:dave@tesserapartner.co"
+      }
+    ]
+  },
+  "contact": {
+    "sectionLabel": "Contact",
+    "headline": "Ready to talk about your product, platform, or AI priorities?",
+    "body": "No pitch. No templates. Just a conversation about where the business is today, where it needs to go, and whether I’m the right person to help.",
+    "cta": {
+      "text": "Schedule a Conversation",
+      "href": "mailto:dave@tesserapartner.co"
+    },
+    "details": [
+      {
+        "text": "dave@tesserapartner.co",
+        "href": "mailto:dave@tesserapartner.co"
+      },
+      {
+        "text": "linkedin.com/in/davelhoffman",
+        "href": "https://linkedin.com/in/davelhoffman"
+      }
+    ]
+  },
+  "footer": {
+    "brand": "Tessera Partners",
+    "contactItems": [
+      {
+        "text": "dave@tesserapartner.co",
+        "href": "mailto:dave@tesserapartner.co"
+      },
+      {
+        "text": "linkedin.com/in/davelhoffman",
+        "href": "https://linkedin.com/in/davelhoffman"
+      }
+    ],
+    "copyright": "© 2026 Tessera Partners. All rights reserved."
+  }
+}
